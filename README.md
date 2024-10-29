@@ -1,1 +1,3 @@
 # AppLogger
+
+Loggaukseen tarkoitettu luokka.
